@@ -1,14 +1,14 @@
-Create a Dist::illa::Plugin::GitLab
-===================================
+Create a Dist::Zilla::Plugin::GitLab
+====================================
 
 Description
 -----------
 
 GitLab is a very popular Git hosting platform both on the internet and for private installations.
 
-This project would author Dist::Zilla plugins which please the repo data in to META.{yml,json}, create the remote repository and update it.
+This project would author Dist::Zilla plugins which place the repo data in to META.{yml,json}, create the remote repository and update it.
 
-See Dist::Zilla::Plugin::GitHub nad Dist::Zilla::Plugin::GithubMeta
+See Dist::Zilla::Plugin::GitHub and Dist::Zilla::Plugin::GithubMeta
 
 Expected outcomes
 -----------------
